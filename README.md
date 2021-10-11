@@ -2,7 +2,7 @@
 <p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">
 
 <p align="center">
-<a href="#"><img title="FROM BANGLADESH" src="https://img.shields.io/badge/FROM-BANGLADESH-red?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
+<a href="#"><img title="FROM BANGLADESH" src="https://img.shields.io/badge/FROM-BANGLADESH-red?colorA=%FF098300&colorB=%FFFF000C&style=for-the-badge"></a>
 </p>
 <h1 align="center">Hey Hatters 😒, I'm Evan Al Mahmud Irfan ථ</h1>
 <p align="center">  <img src="https://profile-counter.glitch.me/CharlieTheHack1/count.svg" alt="CharlieTheHack1"/></p>
