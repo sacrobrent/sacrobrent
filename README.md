@@ -1,4 +1,6 @@
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 <p align="center">
 <a href="#"><img title="FROM BANGLADESH" src="https://img.shields.io/badge/FROM-BANGLADESH-red?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
 </p>
@@ -9,6 +11,8 @@
 <a href="https://github.com/sacrobrent"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=sacrobren&color=blueviolet&style=flat-square"></a>
 
 <br>
+
+<img src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/md7Oqrf.gif " width="300%">
 
 - 🔭 I’m currently working on being **Script Kiddie**
 
@@ -97,6 +101,11 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <a href="https://github.com/Evan-Al-Mahmud-Irfan"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sacrobrent&layout=compact&theme=react&hide_border=true" />
 </a></p>
+
+</p>
+<div align="center">
+<img align="center" src="https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/blob/main/Developer.gif"/>
+</div>
 
 <h3><b><i>🧚🍷️ About 🍷 :</i></b></h3>
 <li> ✨ <i>If Anyone Copy or Trying to Edit my Scripts,Then I will Fuckkk You'r Mom's Pussy</i></li>
