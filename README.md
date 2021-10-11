@@ -125,7 +125,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <li>  <i><a href="https://evanalmahmudirfan.blogspot.com/?m=1">Our Blogsite</a></i></li>
 
 --> <footer>
-	<p>Powerd by : <a href="https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ"><img title="YouTube" src="https://img.shields.io/badge/Bastard 18°0.9-red?style=for-the-badge&logo=Youtube"></a></p>
+	<p>Youtube Channel : <a href="https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ"><img title="YouTube" src="https://img.shields.io/badge/Bastard 18°0.9-red?style=for-the-badge&logo=Youtube"></a></p>
 
 <br>
 <h3><b><i>✨ Developers :</i></b></h3>
