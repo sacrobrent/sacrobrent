@@ -48,10 +48,12 @@
   </a>
 </p>
 
-<p align="left">  <a href="https://in.linkedin.com/in/evan-al-mahmud-irfan-331648203" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="evan-al-mahmud-irfan-3316482031" height="30" width="40" /></a>
-<a href="https://instagram.com/evanalmahmud" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="evanalmahmud" height="30" width="40" /></a>
-<a href="https://twitter.com/MRRFRKR1" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="MRRFRKR1" height="30" width="40" /></a>
-<a href="https://youtube.com/c/Bastard 18°0.9" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="Bastard 18°0.9" height="30" width="40" /></a></p>
+--> <p align="center">
+<a href=" https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ "> <img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a> 
+<a href=" https://t.me/evanalmahmudirfan "> <img title="Telegram Channel" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href=" https://t.me/evanalmahmudirfan "> <img title="Telegram Group" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href=" https://www.facebook.com/100005435044792 "> <img title="Facebook Profile" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook"></a>
+<a href=" https://www.facebook.com/Evan.Al.Mahmud.Irfan.Official.xDD "> <img title="Facebook Page" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
 </p>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
