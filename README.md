@@ -125,9 +125,8 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <li>  <i><a href="https://evanalmahmudirfan.blogspot.com/?m=1">Our Blogsite</a></i></li>
 
 --> <footer>
-    <p>Author    : <a href="https://github.com/sacrobrent" alt="Evan Al Mahmud Irfan"> <img src="https://img.shields.io/badge/Vivek Chandel-10102f?logo=github" /> </a>  
 	<p>Powerd by : <a href="https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ"><img title="YouTube" src="https://img.shields.io/badge/Bastard 18°0.9-red?style=for-the-badge&logo=Youtube"></a></p>
-	
+
 <br>
 <h3><b><i>✨ Developers :</i></b></h3>
 <li> <i><a href="https://www.facebook.com/Hey.Son.Its.Your.Papppa.E8A6.A5.M2H6U3.I7F2N">Evan Al Mahmud Irfan (EVAN HAXXXOR ථ)</a></i></li>
