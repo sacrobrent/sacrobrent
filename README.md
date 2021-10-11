@@ -1,5 +1,5 @@
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+<p align="center"><a href="https://github.com/MRVIVEK-CODER"><img src="https://j.top4top.io/p_1966skgw80.jpg" height='195' alt="VivekXD">
 
 <p align="center">
 <a href="#"><img title="FROM BANGLADESH" src="https://img.shields.io/badge/FROM-BANGLADESH-red?colorA=%23FF9933&colorB=%23138808&style=for-the-badge"></a>
@@ -23,6 +23,8 @@
 - ⚡ Ask me about **Cyber Security and many More...**
 
 - 📫 How to reach me **dolonirfan@gmail.com**
+
+<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
 
 ### Connect with me:
 
@@ -122,6 +124,10 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <li>  <i><a href="https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ">My Youtube Channel</a></i></li>
 <li>  <i><a href="https://evanalmahmudirfan.blogspot.com/?m=1">Our Blogsite</a></i></li>
 
+--> <footer>
+    <p>Author    : <a href="https://github.com/sacrobrent" alt="Bastard 18°0.9"> <img src="https://img.shields.io/badge/Vivek Chandel-10102f?logo=github" /> </a>  
+	<p>Powerd by : <a href="https://www.youtube.com/channel/UC6dFZt9XF245WWnF_LsPzRQ"><img title="YouTube" src="https://img.shields.io/badge/Bastard 18°0.9-red?style=for-the-badge&logo=Youtube"></a></p>
+	
 <br>
 <h3><b><i>✨ Developers :</i></b></h3>
 <li> <i><a href="https://www.facebook.com/Hey.Son.Its.Your.Papppa.E8A6.A5.M2H6U3.I7F2N">Evan Al Mahmud Irfan (EVAN HAXXXOR ථ)</a></i></li>
